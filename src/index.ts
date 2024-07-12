@@ -47,3 +47,5 @@ export class SuitPayApi {
     };
   }
 }
+
+export default SuitPayApi;
