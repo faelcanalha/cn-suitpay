@@ -47,5 +47,3 @@ export class SuitPayApi {
     };
   }
 }
-
-const suitpay = new SuitPayApi({ ci: "FDS", cs: "DS" });
