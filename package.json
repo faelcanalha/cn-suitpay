@@ -1,0 +1,28 @@
+{
+  "name": "cn-suitpay",
+  "version": "0.0.1",
+  "main": "./dist.js",
+  "module": "./dist.mjs",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsup",
+    "test": "tsx watch index.ts"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": ["suitpay"],
+  "author": "faelcanalha",
+  "license": "MIT",
+  "description": "Package for SuitPay made for my own use",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "tsup": "^8.1.0",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
