@@ -1,6 +1,6 @@
 {
   "name": "cn-suitpay",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./dist.js",
   "module": "./dist.mjs",
   "types": "./dist/index.d.ts",
