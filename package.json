@@ -1,6 +1,6 @@
 {
   "name": "cn-suitpay",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "main": "./dist.cjs",
   "module": "./dist.mjs",
   "types": "./dist/index.d.ts",
@@ -13,7 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/faelcanalha/cn-suitpay.git"
   },
-  "keywords": ["suitpay"],
+  "keywords": [
+    "suitpay"
+  ],
   "author": "faelcanalha",
   "license": "MIT",
   "description": "Package for SuitPay made for my own use",
