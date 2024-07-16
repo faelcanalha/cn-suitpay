@@ -1,7 +1,7 @@
 {
   "name": "cn-suitpay",
-  "version": "0.0.3",
-  "main": "./dist.js",
+  "version": "0.0.4",
+  "main": "./dist.cjs",
   "module": "./dist.mjs",
   "types": "./dist/index.d.ts",
   "type": "module",
