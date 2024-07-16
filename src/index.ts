@@ -5,6 +5,7 @@ import {
   CashInCreateResponseSuccess,
   SuitPayClassProps,
 } from "./types";
+export * from "./types";
 
 export class SuitPayApi {
   private axios: AxiosInstance;
